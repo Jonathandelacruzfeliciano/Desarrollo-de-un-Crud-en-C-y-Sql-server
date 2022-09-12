@@ -1,0 +1,8 @@
+C:\JCFprueba\JCFprueba\JCFprueba\bin\Debug\JCFprueba.exe
+C:\JCFprueba\JCFprueba\JCFprueba\bin\Debug\JCFprueba.pdb
+C:\JCFprueba\JCFprueba\JCFprueba\obj\x86\Debug\JCFprueba.Properties.Resources.resources
+C:\JCFprueba\JCFprueba\JCFprueba\obj\x86\Debug\JCFprueba.csproj.GenerateResource.Cache
+C:\JCFprueba\JCFprueba\JCFprueba\obj\x86\Debug\JCFprueba.exe
+C:\JCFprueba\JCFprueba\JCFprueba\obj\x86\Debug\JCFprueba.pdb
+C:\JCFprueba\JCFprueba\JCFprueba\obj\x86\Debug\JCFprueba.csprojResolveAssemblyReference.cache
+C:\JCFprueba\JCFprueba\JCFprueba\obj\x86\Debug\JCFprueba.FrmMantenimiento.resources
